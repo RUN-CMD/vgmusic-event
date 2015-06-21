@@ -1,1 +1,1 @@
-web: bundle exec ruby sinatra.rb RACK_ENV=production
+web: bundle exec rackup config.ru -p $PORT
