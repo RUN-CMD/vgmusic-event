@@ -1,0 +1,1 @@
+web: bundle exec RACK_ENV=production ruby sinatra.rb
