@@ -1,6 +1,26 @@
 @import url("font-awesome.min.css");
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,300italic");
 
+@font-face {
+    font-family: 'All Things Pink';
+    src: url('/assets/fonts/All Things Pink.ttf');
+}
+
+@font-face {
+    font-family: 'All Things Pink Skinny';
+    src: url('/assets/fonts/All Things Pink Skinny.ttf');
+}
+
+@font-face {
+    font-family: 'Little Swag';
+    src: url('/assets/fonts/KGALittleSwag.ttf');
+}
+
+@font-face {
+    font-family: 'Counting Stars';
+    src: url('/assets/fonts/KGCountingStars.ttf');
+}
+
 /*
 	Dopetrope by HTML5 UP
 	html5up.net | @n33co
@@ -1082,7 +1102,7 @@ palette:
 
 	body {
 		background: #C8F3F3;
-		font-family: 'Source Sans Pro';
+		font-family: 'All Things Pink';
 		font-weight: 300;
 		color: #5d5d5d;
 	}
@@ -1823,6 +1843,10 @@ palette:
 
 			.box {
 				padding: 2.75em 1.75em 2.75em 1.75em;
+			}
+
+			.box p {
+				font-family: All Things Pink Skinny;
 			}
 
 				.box .image.featured {
