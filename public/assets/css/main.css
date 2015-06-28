@@ -7,7 +7,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 palette:
-	celeste:		#AAF9F7  #TODO change to #C8F3F3
+	celeste:		#C8F3F3		# note: #AAF9F7 on osx
 	aqua:			#00E5FF
 	bright pink:	#FF007C
 	gold: 			#FFD700
@@ -1081,7 +1081,7 @@ palette:
 /* Basic */
 
 	body {
-		background: #AAF9F7;
+		background: #C8F3F3;
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
 		color: #5d5d5d;
@@ -1671,7 +1671,7 @@ palette:
 /* Banner */
 
 	#banner {
-		background: #AAF9F7 url("../../images/Banner.png");
+		background: #C8F3F3 url("../../images/Banner.png");
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
@@ -1679,7 +1679,7 @@ palette:
 	}
 
 		#banner header {
-			background-color: #AAF9F7;
+			background-color: #C8F3F3;
 			background-color: rgba(200, 243, 243, 0);
 		}
 
@@ -1700,7 +1700,7 @@ palette:
 
 	#header-wrapper {
 		position: relative;
-		background: #AAF9F7;
+		background: #C8F3F3;
 		border-bottom: solid 1px #ccc;
 	}
 
@@ -1764,7 +1764,7 @@ palette:
 
 	#intro {
 		text-align: center;
-		background-color: #AAF9F7;
+		background-color: #C8F3F3;
 	}
 
 /* Copyright */
@@ -2076,7 +2076,7 @@ palette:
 						top: 0;
 						display: block;
 						z-index: -1;
-						box-shadow: 32px 0 0 0 #AAF9F7, 0 -32px 0 0 #AAF9F7, 0 32px 0 0 #AAF9F7, 32px 32px 0 0 #AAF9F7, 32px -32px 0 0 #AAF9F7, 0 0 32px 0 rgba(0, 0, 0, 0.15);
+						box-shadow: 32px 0 0 0 #C8F3F3, 0 -32px 0 0 #C8F3F3, 0 32px 0 0 #C8F3F3, 32px 32px 0 0 #C8F3F3, 32px -32px 0 0 #C8F3F3, 0 0 32px 0 rgba(0, 0, 0, 0.15);
 					}
 
 					#intro .middle:after {
@@ -2088,7 +2088,7 @@ palette:
 						top: 0;
 						display: block;
 						z-index: -1;
-						box-shadow: -32px 0 0 0 #AAF9F7, 0 -32px 0 0 #AAF9F7, 0 32px 0 0 #AAF9F7, -32px 32px 0 0 #AAF9F7, -32px -32px 0 0 #AAF9F7, 0 0 32px 0 rgba(0, 0, 0, 0.15);
+						box-shadow: -32px 0 0 0 #C8F3F3, 0 -32px 0 0 #C8F3F3, 0 32px 0 0 #C8F3F3, -32px 32px 0 0 #C8F3F3, -32px -32px 0 0 #C8F3F3, 0 0 32px 0 rgba(0, 0, 0, 0.15);
 					}
 
 				#intro .button {
