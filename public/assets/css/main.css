@@ -1485,7 +1485,7 @@ palette:
 		position: absolute;
 		left: 0;
 		top: 1.3em;
-		background-color: #d52349;
+		background-color: #FF007C;
 		height: 3.5em;
 		text-align: center;
 		color: #fff;
@@ -1500,7 +1500,7 @@ palette:
 			position: absolute;
 			bottom: 0;
 			right: -1.2em;
-			border-left: solid 1.25em #d52349;
+			border-left: solid 1.25em #FF007C;
 			border-top: solid 1.8em transparent;
 			border-bottom: solid 1.8em transparent;
 		}
@@ -1713,7 +1713,7 @@ palette:
 			}
 
 			#banner header p {
-				color: #d52349;
+				color: #FF007C;
 				padding: 0;
 				font-style: normal;
 				margin: 0;
@@ -1989,11 +1989,11 @@ palette:
 					}
 
 					#nav > ul > li:hover > a, #nav > ul > li.active > a {
-						background: #f3f3f3;
+						background: #FFD700;
 					}
 
 					#nav > ul > li.current > a {
-						background: #d52349;
+						background: #FF007C;
 						color: #fff !important;
 						font-weight: 700;
 					}
